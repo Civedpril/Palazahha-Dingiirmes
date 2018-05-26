@@ -1,0 +1,30 @@
+state={
+	id=230
+	name="STATE_230"
+
+	history={
+		owner = ARR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 2
+
+		}
+		add_core_of = ARR
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4660 6642 6997 12450 
+	}
+	manpower=1250082
+	buildings_max_level_factor=1.000
+	state_category=town
+}

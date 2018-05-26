@@ -1,0 +1,25 @@
+
+state={
+	id=761
+	name="STATE_761" # Xikang
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = CAT
+		add_core_of = CAT
+		victory_points = { 11064 10 }
+		buildings = {
+			infrastructure = 4
+			11064 = {
+				naval_base = 5
+			}
+		}
+	}
+
+	provinces={
+		11064 131 3159 6104 9090 
+	}
+}

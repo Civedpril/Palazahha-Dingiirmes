@@ -1,0 +1,24 @@
+state= {
+	id=595
+	name="STATE_595"
+	manpower = 11755600
+	state_category = city
+	history=
+	{
+		owner = MNY
+		add_core_of = MNY
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = { 
+			10012 15 
+		}
+		
+		
+
+	}
+	provinces={
+		1006 1094 1166 4053 7099 7131 10012 10042 10054 12057 12084 
+	}
+}

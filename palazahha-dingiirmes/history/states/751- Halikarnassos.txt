@@ -1,0 +1,27 @@
+
+state={
+	id=751
+	name="STATE_751" # Xikang
+	manpower = 468200
+	
+	state_category = city
+	
+
+	history={
+		owner = HLI
+		add_core_of = HLI
+		buildings = {
+			infrastructure = 4
+		}
+		1005 = {
+				naval_base = 4
+			}
+		victory_points = {
+			9941 20 
+		}
+	}
+
+	provinces={
+		9941 11917 10122 10038 9929 
+	}
+}

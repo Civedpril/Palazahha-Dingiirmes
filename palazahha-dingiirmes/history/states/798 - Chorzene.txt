@@ -1,0 +1,21 @@
+
+state={
+	id=798
+	name="STATE_798" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = IBE
+		add_core_of = IBE
+		buildings = {
+			infrastructure = 4
+		}	
+	}
+
+	provinces={
+		7454 10403 10472 	
+	}
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=788
+	name="STATE_788" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = ODR
+		add_core_of = ODR
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		935 3908 9818 6857 	
+	}
+}

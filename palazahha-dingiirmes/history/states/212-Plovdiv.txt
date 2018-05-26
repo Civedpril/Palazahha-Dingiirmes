@@ -1,0 +1,29 @@
+
+state={
+	id=212
+	name="STATE_212"
+	manpower = 2611100
+	
+	state_category = city
+
+	history={
+		owner = ODR
+		victory_points = {
+			6923 5
+		}
+		victory_points = {
+			6952 10
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 3
+			industrial_complex =2
+			air_base = 2
+		}
+		add_core_of = ODR
+	}
+
+	provinces={
+		878 893 3937 6814 6923 6952 6982 9862 11813 
+	}
+}

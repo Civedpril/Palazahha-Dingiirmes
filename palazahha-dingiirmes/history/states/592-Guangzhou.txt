@@ -1,0 +1,39 @@
+state={
+	id=592
+	name="STATE_592"
+	manpower = 17835200
+	state_category = city
+	resources={
+		tungsten=10
+		steel= 20
+		chromium = 4
+	}
+
+	history={
+		owner = MNY
+		add_core_of = MNY
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 3
+			1047 = {
+				naval_base = 5
+				coastal_bunker = 1
+				bunker = 1
+			}
+
+		}
+		victory_points = {
+			1047 5
+		}
+
+		
+	}
+
+	provinces={
+		1047 1087 1131 1187 7152 12077 
+	}
+}
+

@@ -1,0 +1,24 @@
+
+state={
+	id=763
+	name="STATE_763" # Xikang
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = DAR
+		add_core_of = DAR
+		buildings = {
+			infrastructure = 4
+			3329 = {
+				naval_base = 1	
+			}
+		}
+	}
+
+	provinces={
+		3329 
+	}
+}

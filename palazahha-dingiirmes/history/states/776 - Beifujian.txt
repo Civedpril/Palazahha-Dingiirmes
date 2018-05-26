@@ -1,0 +1,22 @@
+
+state={
+	id=776
+	name="STATE_776" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = NNG
+		add_core_of = NNG
+		add_core_of = MNY
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		4113 1138 10084 1193 4070  
+	}
+}

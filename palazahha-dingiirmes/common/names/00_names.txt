@@ -1,0 +1,119 @@
+﻿### Names generation for aces ###
+# Surnames can be male/female dependent or general. Fe. in Polish some surnames has different endings depending on the gender.
+# Names and Surnames are randomly picked and will sometimes repeat, but will never repeat in combinations for example there will never be generated another "John Smith".
+# Assigning the callsign is random - may be assigned or not. If we use the callsign, it will never be assigned to anyone again. Callsigns are not obligatory to script.
+# Picking up a gender is random, and is influenced by the amount of names scripted.
+
+default = {
+	male = {
+		names = { "John" "Bob" "Lucas" "Marcus" "Alexander" "Alex" "Peter" "Jonas" "Jim" "Johannes"}
+		surnames = { }
+		callsigns = { }
+	}
+	#female = {
+	#	names = { "Juliette" "Anna" }
+	#	surnames = { }
+	#	callsigns = { "Queen Of The Sky" "The Red Princess" }
+	#}
+	surnames = { "Smith" "Jones" "Taylor" "Brown" "Williams" "Wilson" "Evans" "Walker" "White" "Roberts" }
+	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" Demon}
+}
+
+###############################################################
+# Anatolia, Levant
+###############################################################
+YIS = {
+	male = {
+		names = { "'Ach'av" "'Adalya'" "Adam" "'Adinah" "Adlai" "'Adoniyah" "Aharon" "'Amaryahu" "Amnon" "Amos" "Amram" "Anaiah" "Anat" "Aran" "Arieh"
+		"'Ari'el" "Asa" "Asaf" "Asher" "Atalyah" "Avidan" "'Avi'el" "Avihu" "'Avima'el" "'Avimelekh" "Aviram" "'Avishay" "'Aviyah" "Avner" "Avraham" "Avram"
+		"'Avshalom" "'Azaryah" "'Azazyahu" "'Azri'el" "Barak" "Barukh" "Belshatzzar" "Benayahu" "Binyamin" "boaz" "Chananyah" "Chanokh" "Chavaqquq" "Chiziqiyahu"
+		"Dan" "Daniyyel" "Daryawesh" "Dawid" "Delayahu" "Diklah" "'Efrayim" "Ehud" "Eiran" "Eitan" "Elah" "'El'azar" "Eli" "'Eli'ezer" "'Elifalet" "'Elifelet" "Elihu"
+		"Elisha" "Eliyyahu" "Elkanah" "Enosh" "'Esaw" "Ezer" "'Ezra'" "Gavri'el" "Gedalyahu" "Gemaryahu" "Gershom" "Gershon" "Gid'on" "Gilad" "Golyat" "Haran" "Hevel" "Hillel"
+		"Hiram" "Hoshea" "Immanuel" "'Ira'" "Itamar" "'Ittay" "'Iyyov" "Kalev" "Kayin" "Keinan" "Kenanyahu" "Koresh" "Lemuel" "Lewi" "Lot" "Machlah" "Machli" "Mal'akhi" "Mattan"
+		"Mattanyahu" "Mattithyahu" "Mattityahu" "Melech" "Menachem" "Menashsheh" "Meshullam" "Metushelach" "Mikha'el" "Mikhah" "Mikhayhu" "Mordokhay" "Moshe" "Nachum" "Nadav"
+		"Natan" "Nechemyah" "Neriah" "Netanyahu" "Nethanel" "Nevukhadnetztzar" "Noach" "Nogah" "Ofir" "'Ofrah" "Omri" "'Ovadyah" "Oved" "Peleg" "Penuel" "Peretz" "Pinchas"
+		"Qemu'el" "Rafa'el" "Rehav'am" "Reuven" "Satan" "Seraiah" "Sha'ul" "She'alti'el" "Shelomoh" "Shem" "Shema'yah" "Shemu'el" "Shet" "Shimon" "Shimshon" "Talmai" "Teman" "Terach"
+		"Tovi Toviyyah" "Tzefanyah" "Tzidkiyahu" "Tzion" "Tzivah" "'Uri" "'Uriyah" "'Uriy'el" "Uzzi" "Uzziel" "'Uzziyyah" "Yaakov" "Yachin" "Yadon" "Yair" "Ya'rah" "Yarav'am" "Yared"
+		"Yawan" "Yechezkel" "Yechi'el" "Yedidyah" "Yefet" "Yeho'ash" "Yehochanan" "Yehonatan" "Yehoram" "Yehoshafat" "Yehoshua" "Yehoyakhin" "Yahoyakim" "Yehu'" "Yehudah" "Yehudi"
+		"Yekonyah" "Yered" "Yeriyahu" "Yesha'yahu" "Yeshua" "Yiftach" "Yirmiyahu" "Yishai" "Yishma'el" "Yishmeray" "Yisra'el" "Yissakhar" "Yitzak" "Yo'ash" "Yoav" "Yochanan" "Yoel"
+		"Yonah" "Yonatan" "Yoram" "Yosef" "Yoshiyahu" "Yotam" "Yuval" "Zakkai" "Zekharyah" "Zerach" "Zevadyah" "Zevulun" }
+		surnames = { }
+		callsigns = { }
+	}
+	#female = {
+	#	names = { "Juliette" "Anna" }
+	#	surnames = { }
+	#	callsigns = { "Queen Of The Sky" "The Red Princess" }
+	#}
+	surnames = { "'Ach'av" "'Adalya'" "Adam" "'Adinah" "Adlai" "'Adoniyah" "Aharon" "'Amaryahu" "Amnon" "Amos" "Amram" "Anaiah" "Anat" "Aran" "Arieh"
+		"'Ari'el" "Asa" "Asaf" "Asher" "Atalyah" "Avidan" "'Avi'el" "Avihu" "'Avima'el" "'Avimelekh" "Aviram" "'Avishay" "'Aviyah" "Avner" "Avraham" "Avram"
+		"'Avshalom" "'Azaryah" "'Azazyahu" "'Azri'el" "Barak" "Barukh" "Belshatzzar" "Benayahu" "Binyamin" "boaz" "Chananyah" "Chanokh" "Chavaqquq" "Chiziqiyahu"
+		"Dan" "Daniyyel" "Daryawesh" "Dawid" "Delayahu" "Diklah" "'Efrayim" "Ehud" "Eiran" "Eitan" "Elah" "'El'azar" "Eli" "'Eli'ezer" "'Elifalet" "'Elifelet" "Elihu"
+		"Elisha" "Eliyyahu" "Elkanah" "Enosh" "'Esaw" "Ezer" "'Ezra'" "Gavri'el" "Gedalyahu" "Gemaryahu" "Gershom" "Gershon" "Gid'on" "Gilad" "Golyat" "Haran" "Hevel" "Hillel"
+		"Hiram" "Hoshea" "Immanuel" "'Ira'" "Itamar" "'Ittay" "'Iyyov" "Kalev" "Kayin" "Keinan" "Kenanyahu" "Koresh" "Lemuel" "Lewi" "Lot" "Machlah" "Machli" "Mal'akhi" "Mattan"
+		"Mattanyahu" "Mattithyahu" "Mattityahu" "Melech" "Menachem" "Menashsheh" "Meshullam" "Metushelach" "Mikha'el" "Mikhah" "Mikhayhu" "Mordokhay" "Moshe" "Nachum" "Nadav"
+		"Natan" "Nechemyah" "Neriah" "Netanyahu" "Nethanel" "Nevukhadnetztzar" "Noach" "Nogah" "Ofir" "'Ofrah" "Omri" "'Ovadyah" "Oved" "Peleg" "Penuel" "Peretz" "Pinchas"
+		"Qemu'el" "Rafa'el" "Rehav'am" "Reuven" "Satan" "Seraiah" "Sha'ul" "She'alti'el" "Shelomoh" "Shem" "Shema'yah" "Shemu'el" "Shet" "Shimon" "Shimshon" "Talmai" "Teman" "Terach"
+		"Tovi Toviyyah" "Tzefanyah" "Tzidkiyahu" "Tzion" "Tzivah" "'Uri" "'Uriyah" "'Uriy'el" "Uzzi" "Uzziel" "'Uzziyyah" "Yaakov" "Yachin" "Yadon" "Yair" "Ya'rah" "Yarav'am" "Yared"
+		"Yawan" "Yechezkel" "Yechi'el" "Yedidyah" "Yefet" "Yeho'ash" "Yehochanan" "Yehonatan" "Yehoram" "Yehoshafat" "Yehoshua" "Yehoyakhin" "Yahoyakim" "Yehu'" "Yehudah" "Yehudi"
+		"Yekonyah" "Yered" "Yeriyahu" "Yesha'yahu" "Yeshua" "Yiftach" "Yirmiyahu" "Yishai" "Yishma'el" "Yishmeray" "Yisra'el" "Yissakhar" "Yitzak" "Yo'ash" "Yoav" "Yochanan" "Yoel"
+		"Yonah" "Yonatan" "Yoram" "Yosef" "Yoshiyahu" "Yotam" "Yuval" "Zakkai" "Zekharyah" "Zerach" "Zevadyah" "Zevulun" }
+	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" Demon}
+}
+JUD = {
+	male = {
+		names = { "'Ach'av" "'Adalya'" "Adam" "'Adinah" "Adlai" "'Adoniyah" "Aharon" "'Amaryahu" "Amnon" "Amos" "Amram" "Anaiah" "Anat" "Aran" "Arieh"
+		"'Ari'el" "Asa" "Asaf" "Asher" "Atalyah" "Avidan" "'Avi'el" "Avihu" "'Avima'el" "'Avimelekh" "Aviram" "'Avishay" "'Aviyah" "Avner" "Avraham" "Avram"
+		"'Avshalom" "'Azaryah" "'Azazyahu" "'Azri'el" "Barak" "Barukh" "Belshatzzar" "Benayahu" "Binyamin" "boaz" "Chananyah" "Chanokh" "Chavaqquq" "Chiziqiyahu"
+		"Dan" "Daniyyel" "Daryawesh" "Dawid" "Delayahu" "Diklah" "'Efrayim" "Ehud" "Eiran" "Eitan" "Elah" "'El'azar" "Eli" "'Eli'ezer" "'Elifalet" "'Elifelet" "Elihu"
+		"Elisha" "Eliyyahu" "Elkanah" "Enosh" "'Esaw" "Ezer" "'Ezra'" "Gavri'el" "Gedalyahu" "Gemaryahu" "Gershom" "Gershon" "Gid'on" "Gilad" "Golyat" "Haran" "Hevel" "Hillel"
+		"Hiram" "Hoshea" "Immanuel" "'Ira'" "Itamar" "'Ittay" "'Iyyov" "Kalev" "Kayin" "Keinan" "Kenanyahu" "Koresh" "Lemuel" "Lewi" "Lot" "Machlah" "Machli" "Mal'akhi" "Mattan"
+		"Mattanyahu" "Mattithyahu" "Mattityahu" "Melech" "Menachem" "Menashsheh" "Meshullam" "Metushelach" "Mikha'el" "Mikhah" "Mikhayhu" "Mordokhay" "Moshe" "Nachum" "Nadav"
+		"Natan" "Nechemyah" "Neriah" "Netanyahu" "Nethanel" "Nevukhadnetztzar" "Noach" "Nogah" "Ofir" "'Ofrah" "Omri" "'Ovadyah" "Oved" "Peleg" "Penuel" "Peretz" "Pinchas"
+		"Qemu'el" "Rafa'el" "Rehav'am" "Reuven" "Satan" "Seraiah" "Sha'ul" "She'alti'el" "Shelomoh" "Shem" "Shema'yah" "Shemu'el" "Shet" "Shimon" "Shimshon" "Talmai" "Teman" "Terach"
+		"Tovi Toviyyah" "Tzefanyah" "Tzidkiyahu" "Tzion" "Tzivah" "'Uri" "'Uriyah" "'Uriy'el" "Uzzi" "Uzziel" "'Uzziyyah" "Yaakov" "Yachin" "Yadon" "Yair" "Ya'rah" "Yarav'am" "Yared"
+		"Yawan" "Yechezkel" "Yechi'el" "Yedidyah" "Yefet" "Yeho'ash" "Yehochanan" "Yehonatan" "Yehoram" "Yehoshafat" "Yehoshua" "Yehoyakhin" "Yahoyakim" "Yehu'" "Yehudah" "Yehudi"
+		"Yekonyah" "Yered" "Yeriyahu" "Yesha'yahu" "Yeshua" "Yiftach" "Yirmiyahu" "Yishai" "Yishma'el" "Yishmeray" "Yisra'el" "Yissakhar" "Yitzak" "Yo'ash" "Yoav" "Yochanan" "Yoel"
+		"Yonah" "Yonatan" "Yoram" "Yosef" "Yoshiyahu" "Yotam" "Yuval" "Zakkai" "Zekharyah" "Zerach" "Zevadyah" "Zevulun" }
+		surnames = { }
+		callsigns = { }
+	}
+	#female = {
+	#	names = { "Juliette" "Anna" }
+	#	surnames = { }
+	#	callsigns = { "Queen Of The Sky" "The Red Princess" }
+	#}
+	surnames = { "'Ach'av" "'Adalya'" "Adam" "'Adinah" "Adlai" "'Adoniyah" "Aharon" "'Amaryahu" "Amnon" "Amos" "Amram" "Anaiah" "Anat" "Aran" "Arieh"
+		"'Ari'el" "Asa" "Asaf" "Asher" "Atalyah" "Avidan" "'Avi'el" "Avihu" "'Avima'el" "'Avimelekh" "Aviram" "'Avishay" "'Aviyah" "Avner" "Avraham" "Avram"
+		"'Avshalom" "'Azaryah" "'Azazyahu" "'Azri'el" "Barak" "Barukh" "Belshatzzar" "Benayahu" "Binyamin" "boaz" "Chananyah" "Chanokh" "Chavaqquq" "Chiziqiyahu"
+		"Dan" "Daniyyel" "Daryawesh" "Dawid" "Delayahu" "Diklah" "'Efrayim" "Ehud" "Eiran" "Eitan" "Elah" "'El'azar" "Eli" "'Eli'ezer" "'Elifalet" "'Elifelet" "Elihu"
+		"Elisha" "Eliyyahu" "Elkanah" "Enosh" "'Esaw" "Ezer" "'Ezra'" "Gavri'el" "Gedalyahu" "Gemaryahu" "Gershom" "Gershon" "Gid'on" "Gilad" "Golyat" "Haran" "Hevel" "Hillel"
+		"Hiram" "Hoshea" "Immanuel" "'Ira'" "Itamar" "'Ittay" "'Iyyov" "Kalev" "Kayin" "Keinan" "Kenanyahu" "Koresh" "Lemuel" "Lewi" "Lot" "Machlah" "Machli" "Mal'akhi" "Mattan"
+		"Mattanyahu" "Mattithyahu" "Mattityahu" "Melech" "Menachem" "Menashsheh" "Meshullam" "Metushelach" "Mikha'el" "Mikhah" "Mikhayhu" "Mordokhay" "Moshe" "Nachum" "Nadav"
+		"Natan" "Nechemyah" "Neriah" "Netanyahu" "Nethanel" "Nevukhadnetztzar" "Noach" "Nogah" "Ofir" "'Ofrah" "Omri" "'Ovadyah" "Oved" "Peleg" "Penuel" "Peretz" "Pinchas"
+		"Qemu'el" "Rafa'el" "Rehav'am" "Reuven" "Satan" "Seraiah" "Sha'ul" "She'alti'el" "Shelomoh" "Shem" "Shema'yah" "Shemu'el" "Shet" "Shimon" "Shimshon" "Talmai" "Teman" "Terach"
+		"Tovi Toviyyah" "Tzefanyah" "Tzidkiyahu" "Tzion" "Tzivah" "'Uri" "'Uriyah" "'Uriy'el" "Uzzi" "Uzziel" "'Uzziyyah" "Yaakov" "Yachin" "Yadon" "Yair" "Ya'rah" "Yarav'am" "Yared"
+		"Yawan" "Yechezkel" "Yechi'el" "Yedidyah" "Yefet" "Yeho'ash" "Yehochanan" "Yehonatan" "Yehoram" "Yehoshafat" "Yehoshua" "Yehoyakhin" "Yahoyakim" "Yehu'" "Yehudah" "Yehudi"
+		"Yekonyah" "Yered" "Yeriyahu" "Yesha'yahu" "Yeshua" "Yiftach" "Yirmiyahu" "Yishai" "Yishma'el" "Yishmeray" "Yisra'el" "Yissakhar" "Yitzak" "Yo'ash" "Yoav" "Yochanan" "Yoel"
+		"Yonah" "Yonatan" "Yoram" "Yosef" "Yoshiyahu" "Yotam" "Yuval" "Zakkai" "Zekharyah" "Zerach" "Zevadyah" "Zevulun" }
+	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" Demon}
+}
+HTT = {
+	male = {
+		names = { Abbi-Teshub Aki-Teshup Akiya Alluwamma Ambaris Ammihatna Ammikhatna Anitta Anittas Anuwanza Arnuwandas Awariku Biyassili Dudkhalia Gilia Gilias Halpasulupi
+			Hantili Happi Hasammeli Hattusili Hattusilis Hattuziti Hulli Hupasiya Hutellurra Hutena Huzziya Istanu Khalpasulubi Khulli Kili-Teshup Killa Kulitta Kurunta
+			Kuruntas Labarna Labarnas Luppaki Manapa-Tarhunta Manapa-Teshub Manapa-Teshup Mashuiluwa Masturi Mursilis Muwatalis Muwatalli Muwatallis Nenatta Piyamaradus
+			Piyassili Sausga Shadi-Teshub Shadi-Teshup Shama-Teshup Shaushga Sin-Teshupash Suppiluliuma Tahurwaili Takkuri Tarhundaraba Tarhunnas Tarhunt Tarhunta-zalma
+			Te-Teshub Te-Teshup Telipinu Teshbub Tudkhalias Tudkhaliya Tuthaliya Ualli Urhi-Teshub Urhi-Teshup Urhiteshub Urhiteshup Urikki Urimme Uskhitti Walli
+			Warika Wasusarma Wasusarmas Zannanza Zidanta Zita Zithariya }
+		surnames = { }
+		callsigns = { }
+	}
+	#female = {
+	#	names = { "Juliette" "Anna" }
+	#	surnames = { }
+	#	callsigns = { "Queen Of The Sky" "The Red Princess" }
+	#}
+	surnames = { "of Hattusas" "of Mazaka" "of Uru-Ki" "of Maladiya" "of Ankuwas" "of Hapanuwa" "of Lukka" "of Arzawa" "of Pala" "of Uru-Adaniya"}
+	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" Demon}
+}

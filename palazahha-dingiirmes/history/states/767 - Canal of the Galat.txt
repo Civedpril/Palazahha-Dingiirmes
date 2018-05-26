@@ -1,0 +1,25 @@
+
+state={
+	id=767
+	name="STATE_767" # Xikang
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			12049 5
+		}
+		12049 = {
+				naval_base = 1	
+			}
+	}
+
+	provinces={
+		  12049 4073 13208 13212
+	}
+}

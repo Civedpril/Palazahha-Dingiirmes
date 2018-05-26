@@ -1,0 +1,21 @@
+
+state={
+	id=749
+	name="STATE_749" # Xikang
+	manpower = 468200
+	
+	state_category = pastoral
+	
+
+	history={
+		owner = ARC
+		add_core_of = ARC
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		10756 10296 4365 4321 1430 10152 
+	}
+}

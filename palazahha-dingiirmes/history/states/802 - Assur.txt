@@ -1,0 +1,25 @@
+
+state={
+	id=802
+	name="STATE_802" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = AAS
+		add_core_of = AAS
+		add_core_of = ANI
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			1600 10 
+		}		
+	}
+
+	provinces={
+		1600 12372 1938 901 10882 
+	}
+}

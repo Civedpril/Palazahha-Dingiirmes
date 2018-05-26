@@ -1,0 +1,23 @@
+state= {
+	id=593
+	name="STATE_593"
+	manpower = 12700000
+	state_category = town
+	resources={
+		tungsten=20
+		steel= 20
+		chromium = 4
+	}
+
+	history= {
+		owner = MNY
+		add_core_of = MNY
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		1078 1120 1162 1202 4165 7141 7182 9970 12095 
+	}
+}

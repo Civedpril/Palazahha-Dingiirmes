@@ -1,0 +1,27 @@
+
+state={
+	id=782
+	name="STATE_782" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = CLC
+		add_core_of = CLC
+		buildings = {
+			infrastructure = 4
+			11753 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			11753 3
+		}
+	}
+
+	provinces={
+		11753 
+	}
+}

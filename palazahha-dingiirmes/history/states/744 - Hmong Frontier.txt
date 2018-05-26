@@ -1,0 +1,23 @@
+
+state={
+	id=744
+	name="STATE_744" # Xikang
+	manpower = 968200
+	
+	state_category = pastoral
+	
+
+	history={
+		owner = MIA
+		add_core_of = MIA
+		buildings = {
+			infrastructure = 1
+		}
+
+
+	}
+
+	provinces={
+		7637 9959 10462 7167 7625 9934 7580 4009 
+	}
+}

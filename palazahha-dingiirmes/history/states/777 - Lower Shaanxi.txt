@@ -1,0 +1,21 @@
+
+state={
+	id=777
+	name="STATE_777" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = HNA
+		add_core_of = HNA
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		12713 7301 1976 2006 4295 10257 4256 7406 5092 12408 
+	}
+}

@@ -1,0 +1,8 @@
+HUA_southern_circuit = {
+	color = rgb { 97 116 140 }
+	color_ui = rgb { 97 116 140 }
+}
+TIS_commandery = {
+	color = rgb { 80 95 115 }
+	color_ui = rgb { 80 95 115 }
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=797
+	name="STATE_797" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = ARR
+		add_core_of = ARR
+		buildings = {
+			infrastructure = 4
+		}	
+	}
+
+	provinces={
+		4534 12309 4605 6436 	
+	}
+}

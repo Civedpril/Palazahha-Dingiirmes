@@ -1,0 +1,24 @@
+
+state={
+	id=754
+	name="STATE_754" # Xikang
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = AKS
+		add_core_of = AKS
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			10468 10 
+		}
+	}
+
+	provinces={
+		10468 7643 7791 8014 7558   
+	}
+}

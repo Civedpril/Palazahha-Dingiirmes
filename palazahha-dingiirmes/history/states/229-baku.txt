@@ -1,0 +1,26 @@
+state={
+	id=229
+	name="STATE_229"
+	resources={
+		oil=126.000
+	}
+
+	history={
+		owner = ARR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+
+		}
+		add_core_of = ARR
+
+	}
+
+	provinces={
+		1536 4458 4477 4545 4614 6763 7495 7661 11645 
+	}
+	manpower=2881049
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

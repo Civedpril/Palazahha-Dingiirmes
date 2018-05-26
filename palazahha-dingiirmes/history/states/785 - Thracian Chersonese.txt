@@ -1,0 +1,28 @@
+
+state={
+	id=785
+	name="STATE_785" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = ODR
+		add_core_of = ODR
+		buildings = {
+			infrastructure = 4
+			849 = {
+				naval_base = 1
+				coastal_bunker = 1
+			}
+		}
+		victory_points = {
+			849 3 
+		}	
+	}
+
+	provinces={
+		849 3879 6895 	
+	}
+}

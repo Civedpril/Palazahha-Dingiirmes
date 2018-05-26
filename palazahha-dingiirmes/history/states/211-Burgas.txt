@@ -1,0 +1,23 @@
+
+state={
+	id=211
+	name="STATE_211"
+	manpower = 1575499
+
+
+	state_category = town
+
+	history={
+		owner = ODR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			
+		}
+		add_core_of = ODR
+	}
+
+	provinces={
+		649 6967 9612 9769 9888 
+	}
+}

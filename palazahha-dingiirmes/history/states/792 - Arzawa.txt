@@ -1,0 +1,22 @@
+
+state={
+	id=792
+	name="STATE_792" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = HTT
+		add_core_of = HTT
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}	
+	}
+
+	provinces={
+		6992 928 9921 3927 11898 	
+	}
+}

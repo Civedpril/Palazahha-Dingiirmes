@@ -1,0 +1,27 @@
+
+state={
+	id=781
+	name="STATE_781" #
+	manpower = 468200
+	
+	state_category = city
+	
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		buildings = {
+			infrastructure = 4
+			9833 = {
+				naval_base = 8
+			}
+		}
+		victory_points = {
+			9833 10
+		}
+	}
+
+	provinces={
+		9833 
+	}
+}

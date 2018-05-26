@@ -1,0 +1,19 @@
+
+state={
+	id=764
+	name="STATE_764" # Xikang
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		7091 13216 11964 13217 10073 13211 
+	}
+}

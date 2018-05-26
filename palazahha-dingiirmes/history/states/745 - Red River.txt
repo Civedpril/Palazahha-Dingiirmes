@@ -1,0 +1,29 @@
+
+state={
+	id=745
+	name="STATE_745"
+	manpower = 1528000
+	
+	state_category = town
+	
+	resources={
+		chromium=8
+		tungsten=38
+	}
+
+
+	history={
+		add_core_of = MIA
+		owner = MIA
+
+		buildings = {
+			infrastructure = 4
+			
+		}
+
+	}
+
+	provinces={
+	 12319 10075 12075 12008 7518 1073 12065 9948 7093 7015 1157 12048 4119 
+	}
+}

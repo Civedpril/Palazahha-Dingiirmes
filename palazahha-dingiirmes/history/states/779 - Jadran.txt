@@ -1,0 +1,24 @@
+
+state={
+	id=779
+	name="STATE_779" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = KHM
+		add_core_of = KHM 
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			1776 10 
+		}
+	}
+
+	provinces={
+		1776 12537 10541 4852 13150 4745 12690 10612 7743 7697 
+	}
+}

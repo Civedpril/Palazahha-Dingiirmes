@@ -1,0 +1,24 @@
+
+state={
+	id=780
+	name="STATE_780" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = KHM
+		add_core_of = KHM
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			10578 10 
+		}
+	}
+
+	provinces={
+		12533 7885 7749 1868 10578 12557 4792 10708 12665 7823 1743 12629 
+	}
+}

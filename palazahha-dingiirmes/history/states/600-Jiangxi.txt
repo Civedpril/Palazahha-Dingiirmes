@@ -1,0 +1,23 @@
+state=
+{
+	id=600
+	name="STATE_600"
+	manpower = 15820400
+	state_category = town
+	history=
+	{
+		owner = NNG
+		add_core_of = NNG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+		victory_points = { 
+			3992 3 
+		}
+	}
+
+	provinces={
+		1053 1066 1110 1153 3992 4038 4081 4083 4185 7004 7007 7054 7172 7199 9942 9984 10112 11945 11961 12030 13141 
+	}
+}

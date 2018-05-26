@@ -1,0 +1,28 @@
+
+state={
+	id=768
+	name="STATE_768" # Xikang
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = ARD
+		add_core_of = ARD
+		add_core_of = OSR
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			9310 5
+		}
+		11237 = {
+				naval_base = 1	
+			}
+	}
+
+	provinces={
+		  11237 11267 9310 
+	}
+}

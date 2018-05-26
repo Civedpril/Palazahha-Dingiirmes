@@ -1,0 +1,321 @@
+ideologies = {
+	theocratic = {
+		types = {
+			theocrat = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_THEOCRATIC_1"
+			"FACTION_NAME_THEOCRATIC_2"
+			"FACTION_NAME_THEOCRATIC_3"
+			"FACTION_NAME_THEOCRATIC_4"
+			"FACTION_NAME_THEOCRATIC_5"
+			"FACTION_NAME_THEOCRATIC_6"
+		}
+		
+		color = { 123 72 187 }
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	monarchy = {
+		types = {
+			monarch = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_MONARCHY_1"
+			"FACTION_NAME_MONARCHY_2"
+			"FACTION_NAME_MONARCHY_3"
+			"FACTION_NAME_MONARCHY_4"
+			"FACTION_NAME_MONARCHY_5"
+			"FACTION_NAME_MONARCHY_6"
+		}
+		
+		color = { 153 7 17 }
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	oligarchy = {
+		types = {
+			oligarch = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_OLIGARCHY_1"
+			"FACTION_NAME_OLIGARCHY_2"
+			"FACTION_NAME_OLIGARCHY_3"
+			"FACTION_NAME_OLIGARCHY_4"
+			"FACTION_NAME_OLIGARCHY_5"
+			"FACTION_NAME_OLIGARCHY_6"
+		}
+		
+		color = { 184 17 241 }
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	hephaestist = {
+		types = {
+			hephaest = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_HEPHAESTIST_1"
+			"FACTION_NAME_HEPHAESTIST_2"
+			"FACTION_NAME_HEPHAESTIST_3"
+			"FACTION_NAME_HEPHAESTIST_4"
+			"FACTION_NAME_HEPHAESTIST_5"
+			"FACTION_NAME_HEPHAESTIST_6"
+		}
+		
+		color = { 79 183 249 }
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	archist = {
+		types = {
+			archism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_ARCHIST_1"
+			"FACTION_NAME_ARCHIST_2"
+			"FACTION_NAME_ARCHIST_3"
+			"FACTION_NAME_ARCHIST_4"
+			"FACTION_NAME_ARCHIST_5"
+			"FACTION_NAME_ARCHIST_6"
+		}
+		
+		color = { 210 34 182 }
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	borealist = {
+		types = {
+			boreal = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_BOREALIST_1"
+			"FACTION_NAME_BOREALIST_2"
+			"FACTION_NAME_BOREALIST_3"
+			"FACTION_NAME_BOREALIST_4"
+			"FACTION_NAME_BOREALIST_5"
+			"FACTION_NAME_BOREALIST_6"
+		}
+		
+		color = { 119 109 114 }
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	democratist = {
+		types = {
+			democrat = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIST_1"
+			"FACTION_NAME_DEMOCRATIST_2"
+			"FACTION_NAME_DEMOCRATIST_3"
+			"FACTION_NAME_DEMOCRATIST_4"
+			"FACTION_NAME_DEMOCRATIST_5"
+			"FACTION_NAME_DEMOCRATIST_6"
+		}
+		
+		color = { 239 57 234 }
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	mercantilist = {
+		types = {
+			mercantilism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_MERCANTILIST_1"
+			"FACTION_NAME_MERCANTILIST_2"
+			"FACTION_NAME_MERCANTILIST_3"
+			"FACTION_NAME_MERCANTILIST_4"
+			"FACTION_NAME_MERCANTILIST_5"
+			"FACTION_NAME_MERCANTILIST_6"
+		}
+		
+		color = { 178 82 233 }
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	constitutionalist = {
+		types = {
+			constitutional = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_CONSTITUTIONALIST_1"
+			"FACTION_NAME_CONSTITUTIONALIST_2"
+			"FACTION_NAME_CONSTITUTIONALIST_3"
+			"FACTION_NAME_CONSTITUTIONALIST_4"
+			"FACTION_NAME_CONSTITUTIONALIST_5"
+			"FACTION_NAME_CONSTITUTIONALIST_6"
+		}
+		
+		color = { 153 253 93 }
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	republican = {
+		types = {
+			republicanism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_REPUBLICAN_1"
+			"FACTION_NAME_REPUBLICAN_2"
+			"FACTION_NAME_REPUBLICAN_3"
+			"FACTION_NAME_REPUBLICAN_4"
+			"FACTION_NAME_REPUBLICAN_5"
+			"FACTION_NAME_REPUBLICAN_6"
+		}
+		
+		color = { 212 4 39 }
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	platonicism = {
+		types = {
+			platonic = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_PLATONIC_1"
+			"FACTION_NAME_PLATONIC_2"
+			"FACTION_NAME_PLATONIC_3"
+			"FACTION_NAME_PLATONIC_4"
+			"FACTION_NAME_PLATONIC_5"
+			"FACTION_NAME_PLATONIC_6"
+		}
+		
+		color = { 105 208 53 }
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+}

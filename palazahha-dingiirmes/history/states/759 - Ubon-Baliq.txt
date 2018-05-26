@@ -1,0 +1,28 @@
+
+state={
+	id=759
+	name="STATE_759" # Xikang
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = UBO
+		add_core_of = UBO
+		buildings = {
+			infrastructure = 4
+			1019 = {
+				naval_base = 1
+			}
+		}
+		
+		victory_points = {
+			1019 20 
+		}
+	}
+
+	provinces={
+		11927 1019 10051 7083 10081 
+	}
+}

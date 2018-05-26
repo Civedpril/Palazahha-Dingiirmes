@@ -1,0 +1,44 @@
+state={
+	id=729
+	name="STATE_729" #No longer Macau as treaty ports are kill - used for Middag's mainland possession instead
+	manpower = 157805
+	
+	state_category = rural
+	
+	history={
+		owner = MID
+		add_core_of = MID
+		add_core_of = MNY
+		victory_points = {
+			9938 1 
+		}
+		victory_points = { 
+			7071 1 
+		}
+		victory_points = { 
+			4196 3 
+		}
+		buildings = {
+			infrastructure = 4
+			9938 = {
+				naval_base = 1
+				coastal_bunker = 1
+				bunker = 1
+			}
+			7071 = {
+				naval_base = 1
+				coastal_bunker = 1
+				bunker = 1
+			}
+			4196 = {
+				naval_base = 3
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+	}
+	
+	provinces={
+		9938 9978 10093 10010 7071 11986 7027 4196 4169 10069 
+	}
+}

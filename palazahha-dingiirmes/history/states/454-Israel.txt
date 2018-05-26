@@ -1,0 +1,32 @@
+
+state={
+	id=454
+	name="STATE_454" #Palestine
+	manpower = 933142
+	
+	state_category = rural
+
+	history={
+		owner = YIS
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 2
+			4206 = {
+				naval_base = 3
+			}
+		}
+		
+		victory_points = {
+			13220 5 
+		}
+		victory_points = {
+			7107 10
+		}
+		add_core_of = YIS
+	}
+
+	provinces={
+		1065 1201 4206 7107 13220 13222
+	}
+}

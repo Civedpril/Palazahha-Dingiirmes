@@ -1,0 +1,23 @@
+
+state={
+	id=345
+	name="STATE_345" # Mersin
+	manpower = 411798
+
+	state_category = rural
+
+	history={
+		owner = ZPH
+		victory_points = {
+			10056 10
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = ZPH
+	}
+
+	provinces={
+		4008 4124 7026 10056 
+	}
+}
