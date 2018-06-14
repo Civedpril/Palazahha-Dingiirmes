@@ -167,6 +167,22 @@ AAS = {
 	color = rgb { 153 143 56 }
 	color_ui = rgb { 153 143 56 }
 }
+KBH = {
+	color = rgb { 121 155 126 }
+	color_ui = rgb { 121 155 126 }
+}
+KDA = {
+	color = rgb { 179 48 36 }
+	color_ui = rgb { 179 48 36 }
+}
+YAX = {
+	color = rgb { 143 204 173 }
+	color_ui = rgb { 143 204 173 }
+}
+TUL = {
+	color = rgb { 188 43 88 }
+	color_ui = rgb { 188 43 88 }
+}
 D01 = {
 	color = rgb { 200 100 31 }
 	color_ui = rgb { 245 123 38 }

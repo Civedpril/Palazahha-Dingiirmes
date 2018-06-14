@@ -13,9 +13,7 @@ state={
 
 	history={
 		owner = RAJ
-		victory_points = {
-			8011 1
-		}
+		
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -24,6 +22,6 @@ state={
 	}
 
 	provinces={
-		4291 4315 4344 4395 7244 7391 7395 8011 8100 10190 12146 12208 12734 
+		4291 4315 4344 4395 7244 7391 7395 10190 12208 
 	}
 }

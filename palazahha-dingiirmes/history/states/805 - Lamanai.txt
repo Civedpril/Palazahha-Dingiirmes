@@ -1,0 +1,27 @@
+
+state={
+	id=805
+	name="STATE_805" #
+	manpower = 468200
+	
+	state_category = rural
+	
+
+	history={
+		owner = YAX
+		add_core_of = YAX
+		buildings = {
+			infrastructure = 4
+			13235 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			13234 10
+		}		
+	}
+
+	provinces={
+		13230 13233 13238 13234 13235
+	}
+}

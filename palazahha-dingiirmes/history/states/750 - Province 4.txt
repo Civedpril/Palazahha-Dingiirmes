@@ -10,6 +10,7 @@ state={
 	history={
 		owner = ARC
 		add_core_of = ARC
+		add_core_of = KDA
 		buildings = {
 			infrastructure = 1
 		}

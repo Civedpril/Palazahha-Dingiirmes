@@ -1,0 +1,24 @@
+
+state={
+	id=806
+	name="STATE_806" #
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = YAX
+		add_core_of = YAX
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			13232 10
+		}		
+	}
+
+	provinces={
+		13232 13237 13236 13229 13231 13228 13227 13226 13225
+	}
+}

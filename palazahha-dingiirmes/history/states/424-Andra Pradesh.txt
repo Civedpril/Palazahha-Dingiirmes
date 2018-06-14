@@ -1,7 +1,7 @@
 
 state={
 	id=424
-	name="STATE_424" # Madras
+	name="STATE_424" # Madras	
 	manpower = 15791700
 	state_category = rural
 	
@@ -16,6 +16,6 @@ state={
 	}
 
 	provinces={
-		1228 1344 4414 7297 7310 7340 10897 12180 12779 
+		1228 7297 7340 
 	}
 }
