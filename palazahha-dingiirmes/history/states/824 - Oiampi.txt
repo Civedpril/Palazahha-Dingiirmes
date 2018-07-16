@@ -1,0 +1,21 @@
+#yes there are, in fact, 7 states with the same name
+state={
+	id=824
+	name="STATE_824" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = WAJ
+		add_core_of = WAJ
+		buildings = {
+			infrastructure = 4
+		}		
+	}
+
+	provinces={
+		13259 13254 13270 13266 13273
+	}
+}

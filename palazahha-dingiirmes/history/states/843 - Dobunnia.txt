@@ -1,0 +1,20 @@
+state={
+	id=843
+	name="STATE_843" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = SIL
+		add_core_of = SIL
+		buildings = {
+			infrastructure = 5
+		}	
+	}
+
+	provinces={
+		6378 3241 6301 
+	}
+}

@@ -12,8 +12,8 @@ state= {
 
 	history=
 	{
-		owner = ENG
-		victory_points = { 377 5 }
+		owner = SIL
+		victory_points = { 377 15 }
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -21,10 +21,10 @@ state= {
 				naval_base = 3
 			}
 		}
-		add_core_of = ENG
+		add_core_of = SIL
 	}
 
 	provinces=
 	{
-253 311 377 407 3274 6363 9364 11361 	}
+253 377 407 3274 11361 	}
 }

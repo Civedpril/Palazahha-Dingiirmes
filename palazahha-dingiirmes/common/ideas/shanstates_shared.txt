@@ -1,0 +1,19 @@
+ideas = {
+	country = {
+		SHAN_legacy_of_shan = {
+			picture = SHAN_legacy_of_shan
+			
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1 
+			modifier = {
+				production_speed_industrial_complex_factor = 0.05
+				special_forces_cap = 0.02
+			}
+		}
+	}
+}

@@ -87,10 +87,12 @@ create_faction = "Baliq Multipolis"
 add_to_faction = SHD
 add_to_faction = UBO
 add_to_faction = RMH 
-
+add_to_faction = HDR
+add_to_faction = ATB
+add_to_faction = AYN
 create_country_leader = {
     name = "Hiram IV"
-    desc = ""
+    desc = "HIRAM_IV_DESC"
     picture = "Portrait_SHD_Hiram_IV.dds"
     expire = "7000.1.1"
     ideology = monarch

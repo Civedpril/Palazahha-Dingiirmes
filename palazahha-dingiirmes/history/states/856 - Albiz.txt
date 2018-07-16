@@ -1,0 +1,23 @@
+state={
+	id=856
+	name="STATE_856" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = AUR
+		add_core_of = AUR
+		victory_points = {
+			9414 5
+		}
+		buildings = {
+			infrastructure = 6
+		}	
+	}
+
+	provinces={
+		445 494 3462 9414 
+	}
+}

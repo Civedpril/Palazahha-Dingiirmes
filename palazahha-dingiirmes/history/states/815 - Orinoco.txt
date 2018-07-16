@@ -1,0 +1,21 @@
+#sail away sail away
+state={
+	id=815
+	name="STATE_815" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = GBL
+		add_core_of = GBL
+		buildings = {
+			infrastructure = 4
+		}			
+	}
+
+	provinces={
+		12825 12770 12729 10792 
+	}
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=832
+	name="STATE_832" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = NKR
+		add_core_of = NKR
+		buildings = {
+			infrastructure = 5
+		}	
+	}
+
+	provinces={
+		12167 4596 4363 1400 1605 
+	}
+}

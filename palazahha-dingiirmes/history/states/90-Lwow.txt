@@ -10,11 +10,11 @@ state={
 	}
 
 	history={
-		owner = POL
+		owner = AUR
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = POL
+		add_core_of = AUR
 	}
 
 	provinces={

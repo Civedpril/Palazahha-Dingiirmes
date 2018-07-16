@@ -1,0 +1,20 @@
+state={
+	id=861
+	name="STATE_861" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = MGA
+		add_core_of = MGA
+		buildings = {
+			infrastructure = 6
+		}	
+	}
+
+	provinces={
+		8063 4087 1934 1197 4318 
+	}
+}

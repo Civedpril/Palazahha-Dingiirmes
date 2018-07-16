@@ -1,0 +1,20 @@
+state={
+	id=858
+	name="STATE_858" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = AUR
+		add_core_of = AUR
+		buildings = {
+			infrastructure = 6
+		}	
+	}
+
+	provinces={
+		9532 11558 584 9546 9439 
+	}
+}

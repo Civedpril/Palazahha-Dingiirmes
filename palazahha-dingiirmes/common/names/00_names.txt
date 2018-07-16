@@ -117,3 +117,25 @@ HTT = {
 	surnames = { "of Hattusas" "of Mazaka" "of Uru-Ki" "of Maladiya" "of Ankuwas" "of Hapanuwa" "of Lukka" "of Arzawa" "of Pala" "of Uru-Adaniya"}
 	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" Demon}
 }
+TLI  = {
+	male = {
+		names = { "Anotklosh" "Gush X'een" "Joonák’w" "S.nóok" "Shaadeistí" "Sheiyksh" "Wandziiguuxshú" "Gooxshú" "Yaskámtuuwaa" "Gookshí" "X’adanéik" "Tl’akwu Sheiyksh" "Shaawát Chooku Éesh" "Keishíshk’" "Kaawishté"
+				"Gush Tlein" "Kaakastoon" "X’a.áxch"}
+		surnames = { }
+		callsigns = { }
+	}
+	#female = {
+	#	names = { "Juliette" "Anna" }
+	#	surnames = { }
+	#	callsigns = { "Queen Of The Sky" "The Red Princess" }
+	#}
+	surnames = { "Gaanax.ádi" "Táakw.aaneidí" "Galyáx" "Xunaa" "T'aaku" "Aak'w" "S'awdáan" "Takjik'aan" "Taant'a" "L'uknax.ádi" "Gaanaxteidee" "T'éex'.ádi" 
+				"Ishkeetaan" "Ishkahítaan" "L'ukwnax.ádi" "X'at'ka.aayí" "Koosk'eidí" "Xaas híttaan" "X'alchaneidí" "Kiks.ádi" "Teeyhíttaan" "Teeyineidí" 
+				"Deisheetaan" "Aanx'aakíttaan" "Aanx'aak híttaan" "L'eeneidí" "T'akdeintaan" "L'ukwaax.ádi" "Noowshaka.aayí""Kwáashk'ikwáan" "Kwáashk' Kwáan" 
+				"Weix'hineidí" "Yéeskaneidí" "L'ookwhineidí" "Kuyeidí" "Téel' híttaan" "Sakwteeneidí" "Sukwteeneidí" "Kijookw híttaan" "Gijookw híttaan" "Taneidí" "Kookw híttaan"
+				"Kayaa.ádi" "Tukwyeidí" "Tukwweidí" "Kaasx'agweidí" "Taalkweidí" "Kuyéik'.ádi" "Kaagwaantaan" "Yanyeidí" "Lkweidi" "Teikweidí" "Dagisdinaa" "Jishkweidí"
+				"Dakl'aweidí" "Shangukeidí" "Wooshkeetaan" "Chookaneidí" "Kadakw.ádi" "Tsaateeneidí" "S'eet'kweidí" "Kookhittaan" "Tsaagweidí" "Nees.ídi" "Was'ineidí"
+				"Naasteidí" "Kayaashkeiditaan" "Naanyaa.aayí" "Sik'nax.ádi" "Xook'eidí" "Kaax'oos.hittaan" "Neix.ádi"
+				}
+	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" Demon}
+}

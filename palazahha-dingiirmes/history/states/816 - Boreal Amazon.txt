@@ -1,0 +1,21 @@
+
+state={
+	id=816
+	name="STATE_816" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = GBL
+		add_core_of = GBL
+		buildings = {
+			infrastructure = 4
+		}			
+	}
+
+	provinces={
+		4980 5008 10934 5214 
+	}
+}

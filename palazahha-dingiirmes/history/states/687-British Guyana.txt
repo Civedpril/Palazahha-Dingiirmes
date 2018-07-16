@@ -10,7 +10,8 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = GBL
+		add_core_of = GBL
 		buildings = {
 			infrastructure = 2
 			4982 = {

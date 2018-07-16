@@ -7,9 +7,9 @@ bookmarks = {
 		default_country = "GER"
 		default = yes
 		
-		"FRA"={
-			history = "FRA_GATHERING_STORM_DESC"
-			ideology = democratic
+		"SHD"={
+			history = "SHD_GATHERING_STORM_DESC"
+			ideology = monarchy
 			ideas = {
 				
 			}
@@ -27,9 +27,9 @@ bookmarks = {
 				
 			}
 		}
-		"ENG"={
-			history = "ENG_GATHERING_STORM_DESC"
-			ideology = democratic
+		"ARC"={
+			history = "ARC_GATHERING_STORM_DESC"
+			ideology = archist
 			ideas = {
 				
 			}
@@ -48,9 +48,9 @@ bookmarks = {
 				
 			}
 		}
-		"ITA"={
-			history = "ITA_GATHERING_STORM_DESC"
-			ideology = fascism
+		"HTT"={
+			history = "HTT_GATHERING_STORM_DESC"
+			ideology = monarchy
 			ideas = {
 				
 			}	
@@ -58,9 +58,9 @@ bookmarks = {
 				
 			}		
 		}
-		"JAP"={
-			history = "JAP_GATHERING_STORM_DESC"
-			ideology = fascism
+		"RMA"={
+			history = "RMA_GATHERING_STORM_DESC"
+			ideology = hephaestist
 			ideas = {
 				
 			}	
@@ -68,9 +68,9 @@ bookmarks = {
 				
 			}			
 		}
-		"SOV"={
-			history = "SOV_GATHERING_STORM_DESC"
-			ideology = communism
+		"HNA"={
+			history = "HNA_GATHERING_STORM_DESC"
+			ideology = monarchy
 			ideas = {
 				
 			}
@@ -78,7 +78,28 @@ bookmarks = {
 				
 			}	
 		}
-
+		"TAH"={
+			minor = yes
+			history = "TAH_GATHERING_STORM_DESC"
+			ideology = monarchy
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"MGA"={
+			minor = yes
+			history = "MGA_GATHERING_STORM_DESC"
+			ideology = monarchy
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
 		"---"={
 			history = "OTHER_GATHERING_STORM_DESC"
 		}

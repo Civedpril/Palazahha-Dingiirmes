@@ -1,0 +1,24 @@
+
+state={
+	id=818
+	name="STATE_818" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = WAJ
+		add_core_of = WAJ
+		buildings = {
+			infrastructure = 4
+		}	
+		victory_points = {
+			13260 3
+		}		
+	}
+
+	provinces={
+		13260 13262
+	}
+}

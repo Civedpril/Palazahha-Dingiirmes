@@ -1,0 +1,21 @@
+
+state={
+	id=830
+	name="STATE_830" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = 
+		add_core_of = 
+		buildings = {
+			infrastructure = 4
+		}	
+	}
+
+	provinces={
+		4334 7380 1328 1300 10180 4255 
+	}
+}

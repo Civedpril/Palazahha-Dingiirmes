@@ -7,7 +7,10 @@ state={
 	state_category = city
 
 	history={
-		owner = USA
+		owner = HDR
+		victory_points = {
+			1132 10
+		}
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
@@ -16,11 +19,11 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = USA
+		add_core_of = HDR
 
 	}
 
 	provinces={
-		1077 1132 1163 4168 6943 7045 9876 11783 12054 12445 
+		1077 1132 1163 4168 7045 11783 12054 12445 9931 
 	}
 }

@@ -11,7 +11,7 @@ state={
 	state_category = large_city
 
 	history={
-		owner = GER
+		owner = AUR
 		victory_points = {
 			9570 10 
 		}
@@ -21,7 +21,7 @@ state={
 			industrial_complex = 1
 			air_base = 6
 		}
-		add_core_of = GER
+		add_core_of = AUR
 
 		1939.1.1 = {
 			buildings = {
@@ -33,6 +33,6 @@ state={
 	}
 
 	provinces={
-		552 3283 3438 3485 3510 3545 6462 6534 6595 9470 9570 11517 
+		552 6595 9570 6512 9457 
 	}
 }

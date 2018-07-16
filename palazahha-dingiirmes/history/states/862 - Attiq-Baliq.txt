@@ -1,0 +1,26 @@
+state={
+	id=862
+	name="STATE_862" 
+	manpower = 468200
+	
+	state_category = city
+	
+
+	history={
+		victory_points = {
+			11975 10
+		}
+		owner = ATB
+		add_core_of = ATB
+		buildings = {
+			infrastructure = 6
+			11975 = {
+				naval_base = 3
+			}
+		}	
+	}
+
+	provinces={
+		11975 10437 7612 10465 7118 638 10394 9949 
+	}
+}

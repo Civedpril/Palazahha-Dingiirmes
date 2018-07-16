@@ -1,0 +1,21 @@
+
+state={
+	id=810
+	name="STATE_810" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = SHU
+		add_core_of = SHU
+		buildings = {
+			infrastructure = 4
+		}	
+	}
+
+	provinces={
+		2212 10970 
+	}
+}

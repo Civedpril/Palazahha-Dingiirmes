@@ -86,7 +86,7 @@ set_politics = {
 
 create_country_leader = {
     name = "Pahala Vyakti"
-    desc = ""
+    desc = "PAHALA_VYAKTI_DESC"
     picture = "Portrait_ARC_Pahala_Vyakti.dds"
     expire = "7000.1.1"
     ideology = archism

@@ -1,0 +1,27 @@
+state={
+	id=855
+	name="STATE_855" 
+	manpower = 468200
+	
+	state_category = pastoral
+	
+
+	history={
+		owner = TLI
+		add_core_of = TLI
+		victory_points = {
+			13203 10 
+		}
+		buildings = {
+			infrastructure = 3
+			13203 = {
+				naval_base = 1
+
+			}
+		}	
+	}
+
+	provinces={
+		13203 13202 10707 
+	}
+}

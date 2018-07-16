@@ -1,0 +1,22 @@
+
+state={
+	id=827
+	name="STATE_827" 
+	manpower = 468200
+	
+	state_category = city
+	
+
+	history={
+		owner = BRG
+		add_core_of = BRG
+		victory_points = { 9392 10 }
+		buildings = {
+			infrastructure = 7
+		}	
+	}
+
+	provinces={
+		9392 11378 9314 11299 
+	}
+}

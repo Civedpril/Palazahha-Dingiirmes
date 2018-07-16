@@ -13,15 +13,9 @@ state={
 			industrial_complex = 3
 			dockyard = 4
 			air_base = 10
-			788 = {
-				naval_base = 10
-
-			}
+			
 		}
 		add_core_of = USA
-		victory_points = {
-			788 10
-		}
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 4
@@ -32,6 +26,6 @@ state={
 	}
 
 	provinces={
-		788 865 873 3823 3917 3925 4627 6846 6850 6971 7588 9779 9931 10412 10441 11738 11841 
+		865 873 3823 3917 4627 6846 6971 7588 9779 10441 
 	}
 }

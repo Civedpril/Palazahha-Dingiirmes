@@ -1,0 +1,21 @@
+
+state={
+	id=826
+	name="STATE_826" 
+	manpower = 468200
+	
+	state_category = city
+	
+
+	history={
+		owner = BRG
+		add_core_of = BRG
+		buildings = {
+			infrastructure = 7
+		}		
+	}
+
+	provinces={
+		6350 9350 11218 
+	}
+}

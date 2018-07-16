@@ -1,0 +1,21 @@
+state={
+	id=854
+	name="STATE_854" 
+	manpower = 468200
+	
+	state_category = pastoral
+	
+
+	history={
+		owner = XAA
+		add_core_of = XAA
+		add_core_of = TLI
+		buildings = {
+			infrastructure = 3
+		}	
+	}
+
+	provinces={
+		13275
+	}
+}

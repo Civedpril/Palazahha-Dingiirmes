@@ -7,12 +7,15 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = VEN
+		owner = GBL
+		victory_points = {
+			1981 10 
+		}
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = VEN
+		add_core_of = GBL
 	}
 
 	provinces={

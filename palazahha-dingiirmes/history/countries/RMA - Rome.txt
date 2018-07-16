@@ -85,16 +85,35 @@ set_politics = {
 }
 
 create_country_leader = {
-    name = "Amphitheatral Tribunate"
+    name = "Seneca Tertius"
     desc = ""
-    picture = "Portrait_RMA_Colloseum.dds"
+    picture = "Portrait_RMA_Seneca_Tertius.dds"
     expire = "7000.1.1"
     ideology = hephaest
     traits = {
         #
     }
 }
-
+create_country_leader = {
+    name = "Sergius Tullius"
+    desc = ""
+    picture = "Portrait_RMA_Sergius_Tullius.dds"
+    expire = "7000.1.1"
+    ideology = democrat
+    traits = {
+        #
+    }
+}
+create_country_leader = {
+    name = "Marianus Fabius"
+    desc = ""
+    picture = "Portrait_RMA_Marianus_Fabius.dds"
+    expire = "7000.1.1"
+    ideology = platonic
+    traits = {
+        #
+    }
+}
 
 
 

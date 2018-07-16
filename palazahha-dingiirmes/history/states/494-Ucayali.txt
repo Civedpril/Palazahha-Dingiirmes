@@ -8,14 +8,14 @@ state={
 	
 
 	history={
-		owner = PRU
+		owner = TUP
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = PRU
+		add_core_of = TUP
 	}
 
 	provinces={
-		2212 2226 5166 8160 8191 10940 
+		5166 8160 8191 10940 
 	}
 }

@@ -1,0 +1,23 @@
+state={
+	id=852
+	name="STATE_852" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = WEN
+		add_core_of = WEN
+		victory_points = {
+			9667 15
+		}
+		buildings = {
+			infrastructure = 5
+		}	
+	}
+
+	provinces={
+		9667 722 9711 13154 
+	}
+}

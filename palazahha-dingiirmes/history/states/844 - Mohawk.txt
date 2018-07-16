@@ -1,0 +1,20 @@
+state={
+	id=844
+	name="STATE_844" 
+	manpower = 468200
+	
+	state_category = town
+	
+
+	history={
+		owner = HAU
+		add_core_of = HAU
+		buildings = {
+			infrastructure = 5
+		}	
+	}
+
+	provinces={
+		9721 11722 9693 1436 
+	}
+}

@@ -1,0 +1,27 @@
+state={
+	id=863
+	name="STATE_863" 
+	manpower = 468200
+	
+	state_category = city
+	
+
+	history={
+		victory_points = {
+			788 10
+		}
+		owner = AYN
+		add_core_of = AYN
+		buildings = {
+			infrastructure = 6
+			788 = {
+				naval_base = 10
+
+			}
+		}	
+	}
+
+	provinces={
+		 788 6943 9876 3925 11738 11841 10412 
+	}
+}

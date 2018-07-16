@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = ECE
 		buildings = {
 			infrastructure = 8
 			arms_factory = 2
@@ -18,9 +18,9 @@ state={
 			air_base = 6
 		}
 		victory_points = {
-			9297 25
+			9297 10
 		}
-		add_core_of = ENG
+		add_core_of = ECE
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 3
@@ -30,6 +30,6 @@ state={
 	}
 
 	provinces={
-		3241 3301 6270 6301 7239 9297 11345 
+		6270 7239 9297 
 	}
 }
