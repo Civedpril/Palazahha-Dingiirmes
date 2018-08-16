@@ -1,0 +1,21 @@
+state={
+	id=871
+	name="STATE_871"
+	state_category = town
+	history = {
+		owner = BAT
+		add_core_of = BAT
+		victory_points = {
+			4652 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		4652 7673 8360 12488 
+	}
+	manpower=400320
+	buildings_max_level_factor=1.000
+}

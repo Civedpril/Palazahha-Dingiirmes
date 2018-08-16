@@ -1,0 +1,26 @@
+state={
+	id=881
+	name="STATE_881"
+	
+	state_category = town
+	history = {
+		owner = SIG
+		add_core_of = SIG
+		victory_points = {
+			4279 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			4279= {
+				naval_base = 5
+
+			}
+		}
+	}
+	provinces={
+		1208 4279 12129 
+	}
+	manpower=454000
+	buildings_max_level_factor=1.000
+}

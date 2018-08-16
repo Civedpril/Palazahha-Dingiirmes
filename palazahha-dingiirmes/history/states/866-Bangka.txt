@@ -1,0 +1,25 @@
+state={
+	id=866
+	name="STATE_866"
+	state_category = town
+	history = {
+		owner = MEL
+		add_core_of = MEL
+		victory_points = {
+			7384 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			7384 = {
+				naval_base = 2
+
+			}
+		}
+	}
+	provinces={
+		4211 7384 7396 
+	}
+	manpower=540000
+	buildings_max_level_factor=1.000
+}

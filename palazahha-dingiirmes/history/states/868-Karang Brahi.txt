@@ -1,0 +1,20 @@
+state={
+	id=868
+	name="STATE_868"
+	state_category = town
+	history = {
+		owner = SRN
+		add_core_of = SRN
+		victory_points = {
+			10294 5
+		}
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		1533 7308 7368 7440 10150 10194 10294 12138 12209 12415 
+	}
+	manpower=703985
+	buildings_max_level_factor=1.000
+}

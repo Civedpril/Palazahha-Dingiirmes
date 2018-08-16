@@ -279,6 +279,22 @@ AYN = {
 	color = rgb { 172 246 255 }
 	color_ui = rgb { 172 246 255 }
 }
+SRN = {
+	color = rgb { 143 37 221 }
+	color_ui = rgb { 143 37 221 }
+}
+BAT = {
+	color = rgb { 59 85 59 }
+	color_ui = rgb { 59 85 59 }
+}
+MEL = {
+	color = rgb { 115 144 185 }
+	color_ui = rgb { 115 144 185 }
+}
+SIG = {
+	color = rgb { 112 207 245 }
+	color_ui = rgb { 112 207 245 }
+}
 D01 = {
 	color = rgb { 200 100 31 }
 	color_ui = rgb { 245 123 38 }

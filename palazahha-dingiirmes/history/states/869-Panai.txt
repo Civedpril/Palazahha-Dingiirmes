@@ -1,0 +1,24 @@
+state={
+	id=869
+	name="STATE_869"
+	state_category = town
+	history = {
+		owner = MEL
+		add_core_of = MEL
+		victory_points = {
+			12302 10
+		}
+		buildings = {
+			infrastructure = 3
+			12302 = {
+				naval_base = 2
+
+			}
+		}
+	}
+	provinces={
+		1277 7327 7463 12168 12181 12302 
+	}
+	manpower=740320
+	buildings_max_level_factor=1.000
+}
